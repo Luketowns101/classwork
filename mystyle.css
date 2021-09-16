@@ -1,0 +1,15 @@
+body {background-color: cyan;
+    
+
+}
+.green{
+    color: green;
+}
+.purple{
+    color: purple;
+    border:50px black;
+    width: 250px;
+    margin: 100px ;
+    padding:50px;
+
+}
